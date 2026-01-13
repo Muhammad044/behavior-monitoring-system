@@ -56,7 +56,7 @@ Place a clear image of the subject in `identifier/database/subject_name.jpg`.
 python main.py
 ```
 
-## 📊 Performance & Future Work
+## Performance & Future Work
 
 Current testing indicates high reliability in indoor environments. Future iterations will explore:
 
@@ -64,6 +64,6 @@ Current testing indicates high reliability in indoor environments. Future iterat
 - Integration with IoT-based alerting protocols (MQTT) for emergency response.
 
 
-## 📺 System Demonstration
+## System Demonstration
 [![Watch the Demo](https://img.youtube.com/vi/omMpetXWfTE/0.jpg)](https://www.youtube.com/watch?v=omMpetXWfTE)
 *Click the image above to view the real-time processing demo.*
