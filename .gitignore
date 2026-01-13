@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# AI Models (They are too big for GitHub)
+*.pt
+*.weights
+
+# Virtual Environments
+venv/
+.env
+
+# Video Outputs
+final_research_demo.mp4
