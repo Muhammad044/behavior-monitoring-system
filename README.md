@@ -37,8 +37,7 @@ The system is engineered using a decoupled four-module pipeline to ensure scalab
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Safety-Monitor.git
-cd Safety-Monitor
+git clone https://github.com/Muhammad044/behavior-monitoring-system.git
 ```
 
 ### Install Dependencies
